@@ -39,7 +39,8 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@color/gray"></android.support.v7.widget.RecyclerView>
+            android:background="@color/gray">
+        </android.support.v7.widget.RecyclerView>
         <RelativeLayout
             android:layout_width="0dp"
             android:layout_height="match_parent"
